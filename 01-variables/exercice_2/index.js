@@ -1,3 +1,3 @@
-let academy = "Kadea";
+let nom = "Kadea";
 
 console.log(academy)
