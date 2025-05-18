@@ -1,3 +1,3 @@
 let nom = "Kadea";
 
-console.log(academy)
+console.log(nom)
